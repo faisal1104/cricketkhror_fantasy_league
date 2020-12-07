@@ -1,0 +1,85 @@
+[13-Dec-2019 09:57:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/allshopc/public_html/fantasy121/team_data.php on line 13
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/1.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/2.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/3.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/4.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/5.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/6.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/7.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/9.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/10.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/11.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/12.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/13.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/14.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/15.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/16.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/17.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/18.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/19.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/20.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/21.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/22.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/23.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/24.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/26.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/28.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/29.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/30.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/31.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/32.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/33.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/34.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/35.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/36.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/37.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/38.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/39.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/40.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/41.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/42.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/43.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/44.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/45.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/46.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/47.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/48.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/50.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/51.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/52.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/54.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/55.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/56.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/57.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/58.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/59.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/60.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/61.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/62.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/63.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/64.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/65.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/66.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/67.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[15-Dec-2019 16:12:40 UTC] PHP Warning:  file_put_contents(points121/70.txt): failed to open stream: No such file or directory in /home/allshopc/public_html/fantasy/points_data.php on line 199
+[05-Jan-2020 08:13:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:17:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:17:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:17:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:17:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:17:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:19:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:19:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:19:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:19:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:20:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:20:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:20:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:20:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:20:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:20:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:20:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:20:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:20:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[05-Jan-2020 08:20:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/allshopc/public_html/fantasy/connection.php on line 7
+[02-Sep-2020 14:39:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'allshopc_cpl'@'ns5002338.ip-51-79-176.net' (using password: YES) in /home/allshopc/public_html/fantasy/connection.php on line 7
